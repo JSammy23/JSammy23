@@ -19,8 +19,7 @@ _More projects coming soon!_
 
 ## Connect with Me 🤝
 Always open to collaborating on projects, discussing tech, or just having a good chat. Find me on:
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url-if-you-have-one)
+- [LinkedIn](https://www.linkedin.com/in/jordan-s-b6a753267/)
 
-_P.S. When I'm not coding, you might find me outdoors working on woodworking projects, welding, or running my lawn care business!_
+_P.S. When I'm not coding, you might find me outdoors working on woodworking projects, playing guitar, or running my lawn care business!_
 
