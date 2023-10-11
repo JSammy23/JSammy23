@@ -1,4 +1,4 @@
-# Hello there! I'm [Jordan] 👋
+# Hello there! I'm Jordan 👋
 
 ## About Me 🚀
 I'm a self-taught software engineer with a unique blend of experiences - from precision fabrication at **GE Aviation** to leading sales teams at **Best Buy**. With a strong foundation in **JavaScript, React.js, Node.js, Express, Next.js, HTML, CSS, Webpack, MongoDB,** and a penchant for exploring technologies like **AWS S3**, I'm passionate about building innovative solutions and pushing the boundaries of web development.
